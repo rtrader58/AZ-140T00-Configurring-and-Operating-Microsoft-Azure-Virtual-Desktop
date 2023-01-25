@@ -31,14 +31,3 @@ Optimize Azure Virtual Desktops in Microsoft Azure - https://docs.microsoft.com/
 Secure Azure Virtual Desktops Deployment - https://docs.microsoft.com/en-us/learn/modules/m365-wvd-security/ <br>
 Deploy applications by using MSIX app atach for Azure Virual Desktop - https://docs.microsoft.com/en-us/learn/modules/m365-wvd-application-management/ <br>
 
-## Learning Path 1 <br>
-
-### Module 1 <br>
-
-Virtual Machine Sizing Guidelines - https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/virtual-machine-recs <br>
-Explore Azure Hybrid Benefit for Windows VMs - https://learn.microsoft.com/en-us/azure/virtual-machines/windows/hybrid-use-benefit-licensing <br>
-Azure Reserved Instances - https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/ <br>
-
-### Module 2 <br>
-
-Azure Virtual Desktop Experience Estimator - https://azure.microsoft.com/en-us/products/virtual-desktop/assessment/ <br>
