@@ -6,7 +6,7 @@ Module 2 – Design the Azure Desktop Architecture <br>
 Module 3 – Design for Identities and profiles <br>
 ### Labs
 Lab – Prepare for deployment of Azure Virtual Desktop (AD DS) <br>
-Lab– Prepare for deployment of Azure Virtual Desktop (Azure AD DS) <br>
+Lab – Prepare for deployment of Azure Virtual Desktop (Azure AD DS) <br>
 ## Learning Path 2 – Implement an Azure Virtual Desktop Infrastructure
 ### Modules
 Module 4 – Implement and manage networking for Azure Virtual Desktops <br>
