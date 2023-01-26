@@ -17,7 +17,7 @@ Module 7 – Create and manage session host image for Azure Virtual Desktops <br
 Lab – Implement and manage storage for AVD (Azure AD DS) <br>
 Lab – Implement and manage storage for AVD (AD DS)  <br>
 Lab – Deploy host pools and session hosts by using the Azure portal (AD DS) <br>
-Lab – Deploy host pools and hosts by using Azure Resource Manager templates <br>
+Lab – Deploy host pools and hosts by using Azure Resource Manager templates (Azure AD DS) <br>
 Lab – Deploy and manage host pools and hosts by using PowerShell <br>
 Lab – Create and manage session host images (AD DS) <br>
 ## Learning Path 3 – Manage access and security for Azure Virtual Desktops
