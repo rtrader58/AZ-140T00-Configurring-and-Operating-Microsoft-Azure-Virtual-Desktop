@@ -1,10 +1,6 @@
-# AZ-140T00 All Module Errata
+# AZ-140T00 Learning Path 1 – Plan an Azure Virtual Desktop Implementation
 
 # Active Directory Domain Services (AD DS)
-
-# Learning Path 1 – Plan an Azure Virtual Desktop Implementation
-
-# AZ-140T00 Learning Path 1 – Plan an Azure Virtual Desktop Implementation
 
 ## Lab - Prepare for deployment of Azure Virtual Desktop (AD DS) ~75 Minutes
 
@@ -34,7 +30,3 @@ While in the PowerShell ISE delete each entry form the previous step from the pa
 Task 4: Install Azure AD Connect
 Step 3:  after installing Edge, select the prompts to not sync account data
 Step 13: you can copy the UPN from the Azure AAD portal
-
-
-
-
