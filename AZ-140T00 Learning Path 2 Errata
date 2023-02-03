@@ -1,40 +1,3 @@
-# AZ-140T00 All Module Errata
-
-# Active Directory Domain Services (AD DS)
-
-# Learning Path 1 – Plan an Azure Virtual Desktop Implementation
-
-# AZ-140T00 Learning Path 1 – Plan an Azure Virtual Desktop Implementation
-
-## Lab - Prepare for deployment of Azure Virtual Desktop (AD DS) ~75 Minutes
-
-### Exercise 0:  Increase the number of vCPU quota
-
-Task 1:  Identify current vCPU usage <br>
-Step 6:  Copy and paste each line induviually, replace '<Azure_region>' with 'eastus', copy and paste the other 2 cmdlets <br>
-
-Task 2:  Request vCPU quota increase <br>
-Step 6:  If prompted for MFA, follow the promtps to authenticate with MFA - Use dropdown box to select phone number - -  redo steps 3 - 5 <br>
-
-## Do not close the quota request window until the request has been approved.
-
-### Exercise 1:  Deploy an Active Directory Domain Services (AD DS) domain
-
-Task 2:  Deploy an Azure VM running an AD DS domain controller by using an Azure Resource Manager QuickStart template <br>
-Step 1:  Copy and paste each line induviually, replace '<Azure_region>' with 'eastus', copy and paste the other 2 cmdlets <br>
-Step 6:  you can also browse to the file, it is located on the F drive in Allfiles>Labs>01 folder <br>
-
-Task 4: Deploy Azure Bastion <br>
-Open another browser window and connect to the Azure Portal <br>
-
-### Exercise 2: Integrate an AD DS forest with an Azure AD tenant
-
-While in the PowerShell ISE delete each entry form the previous step from the pane before pasting the nest step <br>
-
-Task 4: Install Azure AD Connect <br>
-Step 3:  after installing Edge, select the prompts to not sync account data <br>
-Step 13: you can copy the UPN from the Azure AAD portal <br>
-
 # AZ-140T00 Learning Path 2 – Implement an Azure Virtual Desktop Infrastructure Errata
 
 # Active Directory Domain Services (AD DS)
@@ -43,9 +6,9 @@ Step 13: you can copy the UPN from the Azure AAD portal <br>
 
 ### Exercise 1: Implement an Azure Virtual Desktop environment in an AD DS domain
 
-Task 2: Deploy an Azure Virtual Desktop host pool <br>
-Manually create a Resouce Group named az140-21-RG before starting the exercise <br>
-Step 2: select the az140-21-RG Resource Group <br>
+Task 2: Deploy an Azure Virtual Desktop host pool
+Manually create a Resouce Group named az140-21-RG before starting the exercise
+Step 2: select the az140-21-RG Resource Group
 
 ### Exercise 2: Validate Azure Virtual Desktop environment
 
@@ -80,7 +43,7 @@ Step 6:  Use the az140-23-RG resource group you created <br>
 
 ## Lab - Deploy and manage host pools and hosts by using PowerShell ~60 Minutes
 
-No errata <br>
+No errata
 
 ## Lab - Create and manage session host images (AD DS) ~60 minutes 
 
@@ -92,7 +55,4 @@ Step 12: Move the downloaded file from the downloads folder to the desired path
 
 Task 5: Provision a Azure Virtual Desktop host pool by using a custom image <br>
 Step 5:  Disregard selectign Image Type as the setting has been removed <br>
-
-
-
 

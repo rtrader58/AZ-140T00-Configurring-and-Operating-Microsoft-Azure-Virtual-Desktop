@@ -1,0 +1,1 @@
+# Learning Path 3 – Manage access and security for Azure Virtual Desktops Errata

@@ -4,23 +4,32 @@
 Module 1 – Azure Virtual Desktop Architecture - https://learn.microsoft.com/en-us/training/modules/azure-virtual-desktop-architecture/ <br>
 Module 2 – Design the Azure Desktop Architecture - https://learn.microsoft.com/en-us/training/modules/design-azure-virtual-desktop-architecture/ <br>
 Module 3 – Design for Identities and profiles - https://learn.microsoft.com/en-us/training/modules/design-user-identities-profiles/ <br>
-### Labs
-Lab – Prepare for deployment of Azure Virtual Desktop (AD DS) <br>
+
+### Labs (Total time ~75 minutes)
+
+Lab – Prepare for deployment of Azure Virtual Desktop (AD DS) ~75 minutes <br>
 Lab – Prepare for deployment of Azure Virtual Desktop (Azure AD DS) <br>
+
 ## Learning Path 2 – Implement an Azure Virtual Desktop Infrastructure
+
 ### Modules
+
 Module 4 – Implement and manage networking for Azure Virtual Desktops - https://learn.microsoft.com/en-us/training/modules/implement-manage-networking-azure-virtual-desktop/ <br>
 Module 5 – Implement and manage storage for Azure Virtual Desktops - https://learn.microsoft.com/en-us/training/modules/implement-manage-storage-azure-virtual-desktop/ <br>
 Module 6 – Create and configure host pools and session hosts for Azure Virtual Desktops - https://learn.microsoft.com/en-us/training/modules/create-configure-host-pools-session-hosts/ <br>
 Module 7 – Create and manage session host image for Azure Virtual Desktops - https://learn.microsoft.com/en-us/training/modules/create-manage-session-host-image/ <br>
-### Labs
+
+### Labs (total time ~270 minutes)
+
+Lab – Deploy host pools and session hosts by using the Azure portal (AD DS) ~75 minutes <br>
 Lab – Implement and manage storage for AVD (Azure AD DS) <br>
-Lab – Implement and manage storage for AVD (AD DS)  <br>
-Lab – Deploy host pools and session hosts by using the Azure portal (AD DS) <br>
-Lab – Deploy host pools and hosts by using Azure Resource Manager templates (Azure AD DS) <br>
-Lab – Deploy and manage host pools and hosts by using PowerShell (AD DS)<br>
-Lab – Create and manage session host images (AD DS) <br>
+Lab – Implement and manage storage for AVD (AD DS)  ~30 minutes<br>
+Lab – Deploy host pools and hosts by using Azure Resource Manager templates (AD DS) ~45 minutes <br>
+Lab – Deploy and manage host pools and hosts by using PowerShell (AD DS) ~60 Minutes <br>
+Lab – Create and manage session host images (AD DS) ~60 minutes <br>
+
 ## Learning Path 3 – Manage access and security for Azure Virtual Desktops
+
 ### Modules
 Module 8 – Manage access for Azure Virtual Desktops - https://learn.microsoft.com/en-us/training/modules/manage-access/ <br>
 Module 9 – Manage security for Azure Virtual Desktops - https://learn.microsoft.com/en-us/training/modules/manage-security/ <br>
