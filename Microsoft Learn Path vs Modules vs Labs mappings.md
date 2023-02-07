@@ -33,20 +33,32 @@ Lab – Create and manage session host images (AD DS) ~60 minutes <br>
 ### Modules
 Module 8 – Manage access for Azure Virtual Desktops - https://learn.microsoft.com/en-us/training/modules/manage-access/ <br>
 Module 9 – Manage security for Azure Virtual Desktops - https://learn.microsoft.com/en-us/training/modules/manage-security/ <br>
-### Labs
-Lab – Configure Conditional Access policies for connections to AVD (AD DS) <br>
+
+### Labs (total time ~60 minutes)
+
+Lab – Configure Conditional Access policies for connections to AVD (AD DS) ~60 minutes<br>
+
 ## Learning Path 4 – Manage user environments and apps for Azure Virtual Desktops
+
 ### Modules
+
 Module 10 – Implement and manage FSLogic - https://learn.microsoft.com/en-us/training/modules/implement-manage-fslogix/ <br>
 Module 11 – Configure user experience settings - https://learn.microsoft.com/en-us/training/modules/configure-user-experience-settings/ <br>
 Module 12 – Install and configure apps on a session host - https://learn.microsoft.com/en-us/training/modules/install-configure-apps-session-host/ <br>
-### Labs
-Lab – Implement and manage Azure Virtual Desktop profiles (Azure AD DS) <br>
-Lab – Package Azure Virtual Desktop applications (AD DS) <br>
+
+### Labs (total time ~90 minutes)
+
+Lab – Implement and manage Azure Virtual Desktop profiles (Azure AD DS) ~30 minutes<br>
+Lab – Package Azure Virtual Desktop applications (AD DS) ~90 minutes<br>
+
 ## Learning Path 5 – Monitor and maintain an Azure Virtual Desktop infrastructure
+
 ### Modules
+
 Module 13 – Plan for disaster recovery - https://learn.microsoft.com/en-us/training/modules/plan-implement-business-continuity-disaster-recovery/ <br>
 Module 14 – Automate Virtual Desktop management tasks - https://learn.microsoft.com/en-us/training/modules/automate-azure-virtual-desktop-management-tasks/ <br>
 Module 15 – Monitor and manage performance and health - https://learn.microsoft.com/en-us/training/modules/monitor-manage-performance-health/ <br>
+
 ### Labs
+
 Lab – Implement autoscaling in host pools (AD DS) <br>
