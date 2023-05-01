@@ -7,7 +7,7 @@
 ### Exercise 0:  Increase the number of vCPU quota
 
 Task 1:  Identify current vCPU usage <br>
-Step 6:  Copy and paste each line induviually, replace '<Azure_region>' with 'eastus', copy and paste the other 2 cmdlets <br>
+Step 6:  Open Noteopad on Lab Computer.  Paste Cmdlets into notepad, replace '<Azure_region>' with 'eastus', copy and paste into Cloud Shell <br>
 
 Task 2:  Request vCPU quota increase <br>
 Step 6:  If prompted for MFA, follow the promtps to authenticate with MFA - Use dropdown box to select phone number - -  redo steps 3 - 5 <br>
