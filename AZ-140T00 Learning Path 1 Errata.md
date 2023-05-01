@@ -20,13 +20,13 @@ Task 2:  Deploy an Azure VM running an AD DS domain controller by using an Azure
 Step 1:  Copy and paste each line induviually, replace '<Azure_region>' with 'eastus', copy and paste the other 2 cmdlets <br>
 Step 6:  you can also browse to the file, it is located on the F drive in Allfiles>Labs>01 folder <br>
 
-Task 4: Deploy Azure Bastion
-Open another browser window and connect to the Azure Portal
+Task 4: Deploy Azure Bastion <br>
+Open another browser window and connect to the Azure Portal <br>
 
 ### Exercise 2: Integrate an AD DS forest with an Azure AD tenant
 
-While in the PowerShell ISE delete each entry form the previous step from the pane before pasting the nest step
+While in the PowerShell ISE delete each entry form the previous step from the pane before pasting the nest step <br>
 
-Task 4: Install Azure AD Connect
-Step 3:  after installing Edge, select the prompts to not sync account data
-Step 13: you can copy the UPN from the Azure AAD portal
+Task 4: Install Azure AD Connect <br>
+Step 3:  after installing Edge, select the prompts to not sync account data <br>
+Step 13: you can copy the UPN from the Azure AAD portal <br>
