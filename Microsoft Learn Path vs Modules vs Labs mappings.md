@@ -61,4 +61,4 @@ Module 15 – Monitor and manage performance and health - https://learn.microsof
 
 ### Labs
 
-Lab – Implement autoscaling in host pools (AD DS) <br>
+Lab – Implement autoscaling in host pools (AD DS) ~60 Minutes <br>
