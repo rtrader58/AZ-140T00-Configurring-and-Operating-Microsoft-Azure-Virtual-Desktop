@@ -1,4 +1,6 @@
 # Microsoft Learn Path vs Modules vs Labs mappings
+### OFFICIAL COLLECTION - Course AZ-140T00: Configuring and Operating Microsoft Azure Virtual Desktop - https://learn.microsoft.com/en-us/users/msftofficialcurriculum-4292/collections/7wrocj3k73g4dq
+
 ## Learning Path 1 – Plan an Azure Virtual Desktop Implementation
 ### Modules
 Module 1 – Azure Virtual Desktop Architecture - https://learn.microsoft.com/en-us/training/modules/azure-virtual-desktop-architecture/ <br>
