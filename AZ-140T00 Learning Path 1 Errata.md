@@ -29,7 +29,7 @@ Paste the Public name  <br>
 Leave Region and Virtual network blank and hit Review + create select Create <br>
 Note: Wait for the deployment to complete before you proceed to the next exercise. The deployment might take over 45 minutes <br>
 
-### Bastion work around
+### Bastion work around - Connect to DC11 directly with RDP instead of Bastion (My preferred way for the lab)
 1.  Search for Public Ip <br>
 2.  Select Create
 3.  Select az140-11-RG resource group <br>
