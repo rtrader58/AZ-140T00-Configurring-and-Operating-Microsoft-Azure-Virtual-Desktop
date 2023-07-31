@@ -9,7 +9,7 @@ Module 3 – Design for Identities and profiles - https://learn.microsoft.com/en
 
 ### Labs (Total time ~75 minutes)
 
-Lab – Prepare for deployment of Azure Virtual Desktop (AD DS) ~75 minutes <br>
+Lab – Prepare for deployment of Azure Virtual Desktop (AD DS) ~90 - 120 minutes <br>
 Lab – Prepare for deployment of Azure Virtual Desktop (Azure AD DS) <br>
 
 ## Learning Path 2 – Implement an Azure Virtual Desktop Infrastructure
