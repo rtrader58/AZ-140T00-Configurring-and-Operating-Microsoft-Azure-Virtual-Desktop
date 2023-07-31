@@ -33,6 +33,27 @@ Paste the Public name <br>
 Leave Region and Virtual network blank and hit Review + create select Create <br>
 Note: Wait for the deployment to complete before you proceed to the next exercise. The deployment might take about 15 - 25 minutes <br>
 
+### Bastion work around - Connect to DC11 directly with RDP instead of Bastion (My preferred way for the lab)
+1.  Search for Public Ip <br>
+2.  Select Create
+3.  Select az140-11-RG resource group <br>
+4.  Select region used in previous steps <br>
+5.  Give in a name <br>
+6.  Choose no Zone redundancy <br>
+7.  Use Adatum for DNS name <br>
+8.  Select Review + create then Create <br>
+
+Select Browse to az140-dc-vm11 | Networking Blade <br>
+1.  Select the Network Interface <br>
+2.  Select Settings > Network Security Group - Select the az140-cl-vm11-ngs in the dropdown box <br>
+3.  Select Save <br>
+4.  Select Settings > IP configuration > Ipconfig <br>
+5.  Check Associate public IP address > Choose in dropdown box the name you created above <br>
+6.  Select Save <br>
+
+In the overview pane of the VM > select Connect then RDP > Download the file then open it <br>
+Credentials are Studnet   Pa55w.rd  <br>
+
 ### Exercise 2: Integrate an AD DS forest with an Azure AD tenant
 
 While in the PowerShell ISE delete each entry form the previous step from the pane before pasting the nest step <br>
