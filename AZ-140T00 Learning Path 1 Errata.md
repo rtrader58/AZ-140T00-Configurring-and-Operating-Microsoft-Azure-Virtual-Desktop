@@ -27,6 +27,7 @@ Set the tier to Basic <br>
 Create new a Public IP address <br>
 Paste the Public name  <br>
 Leave Region and Virtual network blank and hit Review + create select Create <br>
+Note: Wait for the deployment to complete before you proceed to the next exercise. The deployment might take about 15 - 25 minutes <br>
 
 ### Exercise 2: Integrate an AD DS forest with an Azure AD tenant
 
