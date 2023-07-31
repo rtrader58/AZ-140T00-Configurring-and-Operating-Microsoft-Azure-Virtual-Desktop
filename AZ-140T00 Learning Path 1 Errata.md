@@ -22,6 +22,11 @@ Step 6:  you can also browse to the file, it is located on the F drive in Allfil
 
 Task 4: Deploy Azure Bastion <br>
 Open another browser window and connect to the Azure Portal <br>
+Step 6: <br>
+Set the tier to Basic <br>
+Create new a Public IP address <br>
+Paste the Public name  <br>
+Leave Region and Virtual network blank and hit Review + create select Create <br>
 
 ### Exercise 2: Integrate an AD DS forest with an Azure AD tenant
 
