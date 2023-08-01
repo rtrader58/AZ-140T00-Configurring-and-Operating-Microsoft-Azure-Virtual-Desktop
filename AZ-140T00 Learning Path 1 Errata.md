@@ -21,13 +21,7 @@ Step 1:  Copy and paste each line induviually, replace '<Azure_region>' with 'ea
 Step 6:  you can also browse to the file, it is located on the F drive in Allfiles>Labs>01 folder <br>
 
 Task 4: Deploy Azure Bastion <br>
-Open another browser window and connect to the Azure Portal <br>
-Step 6: <br>
-Set the tier to Basic <br>
-Create new a Public IP address <br>
-Paste the Public name  <br>
-Leave Region and Virtual network blank and hit Review + create select Create <br>
-Note: Wait for the deployment to complete before you proceed to the next exercise. The deployment might take over 45 minutes <br>
+Open another browser window <br>
 
 ### Bastion work around - Connect to DC11 directly with RDP instead of Bastion (My preferred way for the lab)
 1.  Search for Public Ip <br>
