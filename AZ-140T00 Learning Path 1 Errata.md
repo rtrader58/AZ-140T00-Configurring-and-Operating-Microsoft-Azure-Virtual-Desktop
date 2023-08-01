@@ -20,20 +20,27 @@ Task 2:  Deploy an Azure VM running an AD DS domain controller by using an Azure
 Step 1:  Copy and paste each line induviually, replace '<Azure_region>' with 'eastus', copy and paste the other 2 cmdlets <br>
 Step 6:  you can also browse to the file, it is located on the F drive in Allfiles>Labs>01 folder <br>
 
-Task 4: Deploy Azure Bastion <br>
+Task 4: Deploy Azure Bastion <br>\
+2 Options <br>
+
 Open another browser window <br>
 
-### Bastion work around - Connect to DC11 directly with RDP instead of Bastion (My preferred way for the lab)
+### Option 1 - alternate way to deply Bastion
+
+Navigate to Vittual networks > az140-adds-vnet11 > Settings > Bastion <br>
+Click Deploy Bastion <br>
+
+### Option 2 - Bastion work around - Connect to DC11 directly with RDP instead of Bastion (My preferred way for the lab)
 1.  Search for Public Ip <br>
 2.  Select Create
 3.  Select az140-11-RG resource group <br>
 4.  Select region used in previous steps <br>
-5.  Give in a name <br>
+5.  Give it a name <br>
 6.  Choose no Zone redundancy <br>
 7.  Use Adatum for DNS name <br>
 8.  Select Review + create then Create <br>
 
-Select Browse to az140-dc-vm11 | Networking Blade <br>
+Browse to az140-dc-vm11 | Networking Blade <br>
 1.  Select the Network Interface <br>
 2.  Select Settings > Network Security Group - Select the az140-cl-vm11-ngs in the dropdown box <br>
 3.  Select Save <br>
