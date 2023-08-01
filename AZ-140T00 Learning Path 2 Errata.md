@@ -49,6 +49,12 @@ No errata
 
 ### Exercise 1: Create and manage session host images
 
+Task 2: Deploy Azure Bastion <br>
+Replace steps 5 - 7 with the following <br>
+
+In the Azure Portal - navigate to Vittual networks > az140-25-vnet > Settings > Bastion <br>
+Click Deploy Bastion <br>
+
 Task 3: Configure a Azure Virtual Desktop host image <br>
 Step 10: Move the downloaded file from the downloads folder to the desired path <br>
 Step 12: Move the downloaded file from the downloads folder to the desired path
