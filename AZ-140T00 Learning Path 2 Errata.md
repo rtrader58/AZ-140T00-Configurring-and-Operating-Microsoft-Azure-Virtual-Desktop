@@ -52,7 +52,7 @@ No errata
 Task 2: Deploy Azure Bastion <br>
 Replace steps 5 - 7 with the following <br>
 
-In the Azure Portal - navigate to Vittual networks > az140-25-vnet > Settings > Bastion <br>
+In the Azure Portal - navigate to Virtual networks > az140-25-vnet > Settings > Bastion <br>
 Click Deploy Bastion <br>
 
 Task 3: Configure a Azure Virtual Desktop host image <br>
