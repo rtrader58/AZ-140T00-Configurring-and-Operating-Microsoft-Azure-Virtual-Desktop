@@ -31,22 +31,22 @@ Navigate to Vittual networks > az140-adds-vnet11 > Settings > Bastion <br>
 Click Deploy Bastion <br>
 
 ### Option 2 - Bastion work around - Connect to DC11 directly with RDP instead of Bastion (My preferred way for the lab)
-1.  Search for Public Ip <br>
-2.  Select Create
-3.  Select az140-11-RG resource group <br>
-4.  Select region used in previous steps <br>
-5.  Give it a name <br>
-6.  Choose no Zone redundancy <br>
-7.  Use (initials)Adatum for DNS name <br>
-8.  Select Review + create then Create <br>
-
-Browse to az140-dc-vm11 | Networking Blade <br>
-1.  Select the Network Interface <br>
-2.  Select Settings > Network Security Group - Select the az140-cl-vm11-ngs in the dropdown box <br>
-3.  Select Save <br>
-4.  Select Settings > IP configuration > Ipconfig <br>
-5.  Check Associate public IP address > Choose in dropdown box the name you created above <br>
-6.  Select Save <br>
+1.  In the Azure portal, Search for Public Ip <br>
+2.  Select Publi IP Address
+3.  Select Create
+4.  Select az140-11-RG resource group <br>
+5.  Select region used in previous steps <br>
+6.  Give it a name <br>
+7.  Choose no Zone redundancy <br>
+8.  Use (initials)Adatum for DNS name <br>
+9.  Select Review + create then Create <br>
+10. In the Azure Portal Browse to Virtual Machines > az140-dc-vm11 > Settings > Networking <br>
+11.  Select the Network Interface <br>
+12.  Browse to Settings > Network Security Group - Select the az140-cl-vm11-ngs in the dropdown box <br>
+13.  Select Save <br>
+14.  Browse to Settings > IP configuration > Ipconfig <br>
+15.  Check Associate public IP address > Choose in dropdown box the name you created above <br>
+16.  Select Save <br>
 
 In the overview pane of the VM select Connect then RDP . Download the file then open it <br>
 Credentials are Studnet   Pa55w.rd  <br>
