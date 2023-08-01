@@ -37,7 +37,7 @@ Click Deploy Bastion <br>
 4.  Select region used in previous steps <br>
 5.  Give it a name <br>
 6.  Choose no Zone redundancy <br>
-7.  Use Adatum for DNS name <br>
+7.  Use (initials)Adatum for DNS name <br>
 8.  Select Review + create then Create <br>
 
 Browse to az140-dc-vm11 | Networking Blade <br>
