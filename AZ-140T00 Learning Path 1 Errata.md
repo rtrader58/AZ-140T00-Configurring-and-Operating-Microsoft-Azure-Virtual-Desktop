@@ -27,7 +27,7 @@ Open another browser window <br>
 
 ### Option 1 - alternate way to deply Bastion
 
-Navigate to Vittual networks > az140-adds-vnet11 > Settings > Bastion <br>
+Navigate to Virtual networks > az140-adds-vnet11 > Settings > Bastion <br>
 Click Deploy Bastion <br>
 
 ### Option 2 - Bastion work around - Connect to DC11 directly with RDP instead of Bastion (My preferred way for the lab)
