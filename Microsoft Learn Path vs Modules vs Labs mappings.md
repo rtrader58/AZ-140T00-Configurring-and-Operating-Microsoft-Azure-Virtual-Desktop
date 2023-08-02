@@ -50,7 +50,7 @@ Module 12 – Install and configure apps on a session host - https://learn.micro
 
 ### Labs (total time ~90 minutes)
 
-Lab – Implement and manage Azure Virtual Desktop profiles (Azure AD DS) ~30 minutes<br>
+Lab – Implement and manage Azure Virtual Desktop profiles (AD DS) ~30 minutes<br>
 Lab – Package Azure Virtual Desktop applications (AD DS) ~90 minutes<br>
 
 ## Learning Path 5 – Monitor and maintain an Azure Virtual Desktop infrastructure
