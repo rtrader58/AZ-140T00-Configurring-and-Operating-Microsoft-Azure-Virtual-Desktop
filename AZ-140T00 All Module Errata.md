@@ -24,8 +24,36 @@ Task 2:  Deploy an Azure VM running an AD DS domain controller by using an Azure
 Step 1:  Copy and paste each line induviually, replace '<Azure_region>' with 'eastus', copy and paste the other 2 cmdlets <br>
 Step 6:  you can also browse to the file, it is located on the F drive in Allfiles>Labs>01 folder <br>
 
-Task 4: Deploy Azure Bastion <br>
-Open another browser window and connect to the Azure Portal <br>
+Task 4: Deploy Azure Bastion <br>\
+2 Options <br>
+
+Open another browser window <br>
+
+### Option 1 - alternate way to deply Bastion
+
+Navigate to Virtual networks > az140-adds-vnet11 > Settings > Bastion <br>
+Click Deploy Bastion <br>
+
+### Option 2 - Bastion work around - Connect to DC11 directly with RDP instead of Bastion (My preferred way for the lab)
+1.  In the Azure portal, Search for Public Ip <br>
+2.  Select Publi IP Address
+3.  Select Create
+4.  Select az140-11-RG resource group <br>
+5.  Select region used in previous steps <br>
+6.  Give it a name <br>
+7.  Choose no Zone redundancy <br>
+8.  Use (initials)Adatum for DNS name <br>
+9.  Select Review + create then Create <br>
+10. In the Azure Portal Browse to Virtual Machines > az140-dc-vm11 > Settings > Networking <br>
+11.  Select the Network Interface <br>
+12.  Browse to Settings > Network Security Group - Select the az140-cl-vm11-ngs in the dropdown box <br>
+13.  Select Save <br>
+14.  Browse to Settings > IP configuration > Ipconfig <br>
+15.  Check Associate public IP address > Choose in dropdown box the name you created above <br>
+16.  Select Save <br>
+
+In the overview pane of the VM select Connect then RDP . Download the file then open it <br>
+Credentials are Studnet   Pa55w.rd  <br>
 
 ### Exercise 2: Integrate an AD DS forest with an Azure AD tenant
 
@@ -85,6 +113,12 @@ No errata <br>
 ## Lab - Create and manage session host images (AD DS) ~60 minutes 
 
 ### Exercise 1: Create and manage session host images
+
+Task 2: Deploy Azure Bastion <br>
+Replace steps 5 - 7 with the following <br>
+
+In the Azure Portal - navigate to Virtual networks > az140-25-vnet > Settings > Bastion <br>
+Click Deploy Bastion <br>
 
 Task 3: Configure a Azure Virtual Desktop host image <br>
 Step 10: Move the downloaded file from the downloads folder to the desired path <br>
