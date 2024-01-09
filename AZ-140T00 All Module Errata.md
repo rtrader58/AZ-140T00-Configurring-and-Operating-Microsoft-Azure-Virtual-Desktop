@@ -139,10 +139,21 @@ Step 5:  Disregard selectign Image Type as the setting has been removed <br>
 Skip Task 1 <br>
 
 ### Exercise 1: Prepare for Azure AD-based Conditional Access for Azure Virtual Desktop
-Task 2 <br>
+
+Replace Task 2 steps with the following: <br>
 You will need to enalbe Security Defaults <br>
 Microsoft Entra ID > Properties > Manage Security Defaults > Enable <br>
 Click Save <br>
+Navigate back to the Microsoft entra ID Blade <br>
+Select Users under Manage <br>
+Select Per-user MFA - may have to click on ... <br>
+Select aduser5 and enable <br>
+Select enable multi-factor auth <br>
+Select close <br>
+Select aduser5 and Enforce <br>
+Select enforce multi-factor auth <br>
+Select close <br>
+Continue to Task 3 <br>
 
 ### Exercise 1: Prepare for Azure AD-based Conditional Access for Azure Virtual Desktop
 
