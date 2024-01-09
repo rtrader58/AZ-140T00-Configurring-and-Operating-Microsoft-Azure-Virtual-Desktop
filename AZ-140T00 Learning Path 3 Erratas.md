@@ -20,7 +20,7 @@ Select enable multi-factor auth <br>
 Select close <br>
 Select aduser5 and Enforce <br>
 Select enforce multi-factor auth <br>
-Seclect close <br>
+Select close <br>
 Continue to Task 3 <br>
 
 ### Exercise 1: Prepare for Azure AD-based Conditional Access for Azure Virtual Desktop
