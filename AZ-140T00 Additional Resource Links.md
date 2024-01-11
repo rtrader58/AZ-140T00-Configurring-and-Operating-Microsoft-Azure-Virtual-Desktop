@@ -8,7 +8,7 @@ AZ-140 Exam Study guide - https://query.prod.cms.rt.microsoft.com/cms/api/am/bin
 Exam discount - https://www.interfacett.com/microsoft-certification-exams/<br>
 Azure Platforms Blog - https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform <br>
 Channel 9 - https://channel9.msdn.com? <br>
-Azure Blog - https://azure.microsoft.com/en-us/blog 
+Azure Blog - https://azure.microsoft.com/en-us/blog <br>
 Microsoft Learn - https://docs.microsoft.com/learn/browse/ <br>
 Azure Documentation - https://docs.microsoft.com/azure/  <br>
 Azure forums https://docs.microsoft.com/answers/products/azure?product=all  <br>
