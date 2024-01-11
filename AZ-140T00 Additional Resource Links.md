@@ -4,7 +4,7 @@ Interface Technical Training – https://interfacett.com<br>
 Replay - https://replay.interfacett.com<br>
 Lab Environment – https://interfacett.learnondemand.net<br>
 AZ-140 Exam objectives - https://learn.microsoft.com/en-us/certifications/exams/az-140<br>
-AZ-140 Exam Study guide - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFST<br>
+AZ-140 Exam Study guide -https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-140<br>
 Exam discount - https://www.interfacett.com/microsoft-certification-exams/<br>
 Azure Platforms Blog - https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform <br>
 Channel 9 - https://channel9.msdn.com? <br>
