@@ -2,7 +2,7 @@
 
 # Active Directory Domain Services (AD DS)
 
-## Lab - Deploy host pools and session hosts by using the Azure portal (AD DS) ~60 Minutes
+## Lab 02 - Deploy host pools and session hosts by using the Azure portal (AD DS) ~60 Minutes
 
 ### Exercise 1: Implement an Azure Virtual Desktop environment in an AD DS domain
 
@@ -15,7 +15,7 @@ Step 2: select the az140-21-RG Resource Group
 Task 1: Install Microsoft Remote Desktop client (MSRDC) on a Windows 10 computer <br>
 Step 8: after launching Edge, select the prompts to not sync account data - My have to click on Open file to run <br>
 
-## Lab - Implement and manage storage for AVD (AD DS) ~30 Minutes
+## Lab 03 - Implement and manage storage for AVD (AD DS) ~30 Minutes
 
 ### Exercise 1: Configure Azure Files to store profile containers for Azure Virtual Desktop <br>
 
@@ -29,7 +29,7 @@ Step 3:  you may have to exit back to Home then back to the file Share <br>
 Step 5:  Paste the role in the search box, then select the role <br>
 Step 7:  Paste the role in the search box, then select the role <br>
 
-## Lab - Deploy  host pools and hosts by using Azure Resource Manager templates ~30 Minutes
+## Lab 04 - Deploy host pools and hosts by using Azure Resource Manager templates ~30 Minutes
 
 ### Exercise 1: Deploy Azure Virtual Desktop host pools and hosts by using Azure Resource Manager templates
 
@@ -41,11 +41,11 @@ Task 2:  Deploy an Azure Virtual Desktop host pool and hosts by using an Azure R
 
 Step 6:  Use the az140-23-RG resource group you created <br>
 
-## Lab - Deploy and manage host pools and hosts by using PowerShell ~60 Minutes
+## Lab 05 - Deploy and manage host pools and hosts by using PowerShell ~60 Minutes
 
 No errata
 
-## Lab - Create and manage session host images (AD DS) ~60 minutes 
+## Lab 06 - Create and manage session host images (AD DS) ~60 minutes 
 
 ### Exercise 1: Create and manage session host images
 
