@@ -49,7 +49,7 @@ Click Deploy Bastion <br>
 16.  Select Save <br>
 
 In the overview pane of the VM select Connect then RDP . Download the file then open it <br>
-Credentials are Studnet   Pa55w.rd  <br>
+Credentials are Studnet   Pa55w.rd1234  <br>
 
 ### Exercise 2: Integrate an AD DS forest with an Azure AD tenant
 
