@@ -2,7 +2,7 @@
 
 ## Lab - Configure Conditional Access policies for WVD (AD DS)
 
-## Microsoft does not allow the Autohorized Lab Hosting paartner to provide Entra P2 in the lab environment without providing a Cred Card.
+## Microsoft does not allow the Autohorized Lab Hosting partner to provide Entra P2 in the lab environment without providing a Cred Card.
 
 ### Exercise 1: Prepare for Azure AD-based Conditional Access for Azure Virtual Desktop
 Skip Task 1 <br>
