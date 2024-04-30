@@ -48,7 +48,7 @@ Module 10 – Implement and manage FSLogic - https://learn.microsoft.com/en-us/t
 Module 11 – Configure user experience settings - https://learn.microsoft.com/en-us/training/modules/configure-user-experience-settings/ <br>
 Module 12 – Install and configure apps on a session host - https://learn.microsoft.com/en-us/training/modules/install-configure-apps-session-host/ <br>
 
-### Labs (total time ~90 minutes)
+### Labs (total time ~120 minutes)
 
 Lab – Implement and manage Azure Virtual Desktop profiles (AD DS) ~30 minutes<br>
 Lab – Package Azure Virtual Desktop applications (AD DS) ~90 minutes<br>
