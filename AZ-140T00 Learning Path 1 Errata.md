@@ -23,7 +23,7 @@ Step 6:  you can also browse to the file, it is located on the F drive in Allfil
 Task 4: Deploy Azure Bastion <br>\
 2 Options <br>
 
-### Option 1 Connecting through the Bastion Host as written in the lab <br>
+### Option 1 - Connecting through the Bastion Host as written in the lab <br>
 
 ### Option 2 - Bastion work around - Connect to DC11 directly with RDP instead of Bastion (My preferred way for the lab)
 
