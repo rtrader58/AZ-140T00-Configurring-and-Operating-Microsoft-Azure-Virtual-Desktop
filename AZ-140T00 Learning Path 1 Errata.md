@@ -28,6 +28,7 @@ Task 4: Deploy Azure Bastion <br>\
 ### Option 2 - Bastion work around - Connect to DC11 directly with RDP instead of Bastion (My preferred way for the lab)
 
 ##  *** Using this method will expose your Domain Controller directly to the Internet.  There is a risk your DC could be compromised and your labs will no longer work ***
+### When done for the day "Deallocate all VMs" before saving your lab (if you need help dellocating the VMs please ask)
 
 1.  In the Azure portal, Search for Public Ip <br>
 2.  Select Publi IP Address
