@@ -7,11 +7,6 @@ Module 1 – Azure Virtual Desktop Architecture - https://learn.microsoft.com/en
 Module 2 – Design the Azure Desktop Architecture - https://learn.microsoft.com/en-us/training/modules/design-azure-virtual-desktop-architecture/ <br>
 Module 3 – Design for Identities and profiles - https://learn.microsoft.com/en-us/training/modules/design-user-identities-profiles/ <br>
 
-### Labs (Total time ~75 minutes)
-
-Lab – Prepare for deployment of Azure Virtual Desktop (AD DS) ~90 - 120 minutes <br>
-Lab – Prepare for deployment of Azure Virtual Desktop (Azure AD DS) <br>
-
 ## Learning Path 2 – Implement an Azure Virtual Desktop Infrastructure
 
 ### Modules
@@ -21,24 +16,11 @@ Module 5 – Implement and manage storage for Azure Virtual Desktops - https://l
 Module 6 – Create and configure host pools and session hosts for Azure Virtual Desktops - https://learn.microsoft.com/en-us/training/modules/create-configure-host-pools-session-hosts/ <br>
 Module 7 – Create and manage session host image for Azure Virtual Desktops - https://learn.microsoft.com/en-us/training/modules/create-manage-session-host-image/ <br>
 
-### Labs (total time ~270 minutes)
-
-Lab – Deploy host pools and session hosts by using the Azure portal (AD DS) ~75 minutes <br>
-Lab – Implement and manage storage for AVD (Azure AD DS) <br>
-Lab – Implement and manage storage for AVD (AD DS)  ~30 minutes<br>
-Lab – Deploy host pools and hosts by using Azure Resource Manager templates (AD DS) ~45 minutes <br>
-Lab – Deploy and manage host pools and hosts by using PowerShell (AD DS) ~60 Minutes <br>
-Lab – Create and manage session host images (AD DS) ~60 minutes <br>
-
 ## Learning Path 3 – Manage access and security for Azure Virtual Desktops
 
 ### Modules
 Module 8 – Manage access for Azure Virtual Desktops - https://learn.microsoft.com/en-us/training/modules/manage-access/ <br>
 Module 9 – Manage security for Azure Virtual Desktops - https://learn.microsoft.com/en-us/training/modules/manage-security/ <br>
-
-### Labs (total time ~60 minutes)
-
-Lab – Configure Conditional Access policies for connections to AVD (AD DS) ~60 minutes<br>
 
 ## Learning Path 4 – Manage user environments and apps for Azure Virtual Desktops
 
@@ -48,11 +30,6 @@ Module 10 – Implement and manage FSLogic - https://learn.microsoft.com/en-us/t
 Module 11 – Configure user experience settings - https://learn.microsoft.com/en-us/training/modules/configure-user-experience-settings/ <br>
 Module 12 – Install and configure apps on a session host - https://learn.microsoft.com/en-us/training/modules/install-configure-apps-session-host/ <br>
 
-### Labs (total time ~120 minutes)
-
-Lab – Implement and manage Azure Virtual Desktop profiles (AD DS) ~30 minutes<br>
-Lab – Package Azure Virtual Desktop applications (AD DS) ~90 minutes<br>
-
 ## Learning Path 5 – Monitor and maintain an Azure Virtual Desktop infrastructure
 
 ### Modules
@@ -61,6 +38,13 @@ Module 13 – Plan for disaster recovery - https://learn.microsoft.com/en-us/tra
 Module 14 – Automate Virtual Desktop management tasks - https://learn.microsoft.com/en-us/training/modules/automate-azure-virtual-desktop-management-tasks/ <br>
 Module 15 – Monitor and manage performance and health - https://learn.microsoft.com/en-us/training/modules/monitor-manage-performance-health/ <br>
 
-### Labs
+### Labs: Configuring and Operating Microsoft Azure Virtual Desktop
 
-Lab – Implement autoscaling in host pools (AD DS) ~60 Minutes <br>
+Lab 1: Deploy host pools and session hosts by using the Azure portal (Entra ID) (30 minutes)  <br>
+Lab 2: Manage host pools and session hosts by using the Azure portal (Entra ID) (30 minutes)  <br>
+Lab 3: Implement monitoring by using Azure Virtual Desktop Insights (25 minutes)  <br>
+Lab 4: Connect to session hosts (Entra ID) (20 minutes)  <br>
+Lab 5: Implement and monitor autoscaling of session hosts (45 minutes)  <br>
+Lab 6: Implement Azure Private Link for Azure Virtual Desktop (45 minutes)  <br>
+Lab 7: Create custom session host images by using image templates (90 minutes)  <br>
+
