@@ -114,6 +114,7 @@ No errata <br>
 
 ### Exercise 1: Create and manage session host images
 
+
 Task 2: Deploy Azure Bastion <br>
 Replace steps 5 - 7 with the following <br>
 

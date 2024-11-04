@@ -15,6 +15,7 @@ Step 2: select the az140-21-RG Resource Group
 Task 1: Install Microsoft Remote Desktop client (MSRDC) on a Windows 10 computer <br>
 Step 8: after launching Edge, select the prompts to not sync account data - My have to click on Open file to run <br>
 
+
 ## Lab 03 - Implement and manage storage for AVD (AD DS) ~30 Minutes
 
 ### Exercise 1: Configure Azure Files to store profile containers for Azure Virtual Desktop <br>

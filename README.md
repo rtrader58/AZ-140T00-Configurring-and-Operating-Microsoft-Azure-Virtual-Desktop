@@ -3,6 +3,8 @@
 ## This repository is provided to enhance the course<br>
 ## Updated 2/02/2023<br>
 
+Labs depricated Sept 2024 <br>
+
 This repository is maintained by Rick Trader<br>
 Interface Technical Training<br>
 

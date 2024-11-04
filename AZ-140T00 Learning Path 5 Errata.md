@@ -4,6 +4,7 @@
 
 ### Exercise 3: Stop and deallocate Azure VMs provisioned in the lab
 
+
 *** Note*** If you want to accomplish the alternate Azure ADDS Track you will need to remove the current Azure AD Connect Syncing.  Do the following steps before deallocating the environment.  <br>
 
 Do the following tasks before doing Task 1 of the lab environment steps <br>

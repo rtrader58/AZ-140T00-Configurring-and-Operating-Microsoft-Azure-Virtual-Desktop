@@ -8,6 +8,7 @@
 Skip Task 1 <br>
 
 ### Exercise 1: Prepare for Azure AD-based Conditional Access for Azure Virtual Desktop
+
 Replace Task 2 steps with the following: <br>
 <br>
 You will need to enalbe Security Defaults <br>
